@@ -38,4 +38,4 @@ Hosting: Cloudflare, Netlify
 
 ----
 
-If you are wondering, it's my cat in my icon.
+If you are wondering, it's my cat in my icon. 🐱
