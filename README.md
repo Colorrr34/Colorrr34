@@ -35,3 +35,7 @@ Languages: Go, Python
 Front-end: HTML, CSS, React and Lighthouse
 
 Hosting: Cloudflare, Netlify
+
+
+
+If you are wondering. It's my cat in my icon.
