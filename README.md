@@ -1,4 +1,4 @@
-## Welcome to Ricky's GitHub
+# Welcome to Ricky's GitHub
 <!--
 **Colorrr34/Colorrr34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here is Ricky, an aspiring junior software developer interested in both frontend and backend engineering. 
+An aspiring junior software developer interested in both frontend and backend engineering. 
 
 I am building a project using mainly Javascript and PSQL for an backend operation. I am working to include frontend functionality to it in the future. In the mean time, I am learning Python and I will build a project with it in the future
 
-# Skills (Current):
+## Skills (Current):
 
 Languages: JavaScript, using Node.js and browsers as environment
 
@@ -28,7 +28,7 @@ Back-end: SQL, PSQL, seeding, migrations
 
 Other: Paired programming, technical communication, SDL, Agile and SCRUM methodologies
 
-# (Learning):
+## (Learning):
 
 Languages: Go, Python
 
