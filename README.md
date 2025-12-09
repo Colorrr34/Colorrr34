@@ -1,8 +1,8 @@
 # Welcome to Ricky's GitHub
 
-An aspiring junior software developer interested in both frontend and backend engineering. 
+An aspiring junior software developer interested in both frontend and backend development. 
 
-I am building a project using mainly Javascript and PSQL for an backend operation. I am working to include frontend functionality to it in the future. In the mean time, I am learning Python and I will build a project with it in the future
+I have built two fullstack projects for now (Please check below for the project section). In the mean time, I am learning Python and I will build a project with it in the future
 
 ## Skills (Current):
 
@@ -10,9 +10,16 @@ Languages: JavaScript, TypeScript using Node.js and browsers as environment
 
 Testing: TDD (Test Driven Development), Jest, Supertest, Vitest
 
-Back-end: SQL, PSQL, seeding, migrations, Drizzle
+Backend: SQL, PSQL, seeding, migrations, Drizzle, Json Web Token
+
+Frontend: Front-end: HTML, CSS, React, Vite 
 
 Other: Paired programming, technical communication, SDL, Agile and SCRUM methodologies
+
+## Project:
+
+- NC News - A forum style App ([Backend](https://github.com/Colorrr34/NC-News-BE)) ([Frontend](
+- Burnout Breaker - A game platform App ([Backend](https://github.com/josephhelmore/breen-team-backend)) ([Frontend](https://github.com/Gilson96/breen-team-FE))
 
 ## (Learning):
 
