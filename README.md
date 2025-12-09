@@ -18,7 +18,7 @@ Other: Paired programming, technical communication, SDL, Agile and SCRUM methodo
 
 ## Project:
 
-- NC News - A forum style App ([Backend](https://github.com/Colorrr34/NC-News-BE)) ([Frontend](
+- NC News - A forum style App ([Backend](https://github.com/Colorrr34/NC-News-BE)) ([Frontend](https://github.com/Colorrr34/NC-News-FE))
 - Burnout Breaker - A game platform App ([Backend](https://github.com/josephhelmore/breen-team-backend)) ([Frontend](https://github.com/Gilson96/breen-team-FE))
 
 ## (Learning):
