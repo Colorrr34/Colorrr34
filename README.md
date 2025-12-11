@@ -16,6 +16,8 @@ Backend: SQL, PSQL, seeding, migrations, Drizzle, Json Web Token
 
 Frontend: Front-end: HTML, CSS, React, Vite 
 
+Hosting: Render, Netlify, Vercel
+
 Other: Paired programming, technical communication, SDL, Agile and SCRUM methodologies
 
 ## Project:
@@ -35,7 +37,7 @@ Languages: Go, Python
 
 Front-end: HTML, CSS, React and Lighthouse
 
-Hosting: Cloudflare, Netlify
+
 
 ----
 
