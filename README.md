@@ -1,6 +1,8 @@
 # Welcome to Ricky's GitHub
 
-An aspiring junior software developer interested in both frontend and backend development. I have worked in various industries ranging from financial assurance to bookseller to bar staff. I love the vast avaiability of resources in the software development field and am currently working my best to expand my skillset and deepening my knowledge.
+An aspiring junior software developer interested in both frontend and backend development. I have worked in various industries ranging from financial assurance to bookseller to bar staff. 
+
+I love the vast avaiability of resources in the software development field and am currently working my best to expand my skillset and deepening my knowledge.
 
 I have built two fullstack projects for now (Please check below for the project section). In the mean time, I am learning Python and I will build a project with it in the future
 
