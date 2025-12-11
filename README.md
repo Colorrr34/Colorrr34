@@ -4,7 +4,7 @@ An aspiring junior software developer interested in both frontend and backend de
 
 I love the vast avaiability of resources in the software development field and am currently working my best to expand my skillset and deepening my knowledge.
 
-I have built two fullstack projects for now (Please check below for the project section). In the mean time, I am learning Python and I will build a project with it in the future
+I have built two fullstack projects for now (Please check below for the project section). In the mean time, I am learning Go and I am a building a project with it.
 
 ## Skills (Current):
 
@@ -20,8 +20,12 @@ Other: Paired programming, technical communication, SDL, Agile and SCRUM methodo
 
 ## Project:
 
-- NC News - A forum style App ([Backend](https://github.com/Colorrr34/NC-News-BE)) ([Frontend](https://github.com/Colorrr34/NC-News-FE))
-- Burnout Breaker - A game platform App ([Backend](https://github.com/josephhelmore/breen-team-backend)) ([Frontend](https://github.com/Gilson96/breen-team-FE))
+- NC News
+  - A forum style App
+  - [Backend](https://github.com/Colorrr34/NC-News-BE) | [Frontend](https://github.com/Colorrr34/NC-News-FE)
+- Burnout Breaker
+  - A game platform App
+  - [Backend](https://github.com/josephhelmore/breen-team-backend) | [Frontend](https://github.com/Gilson96/breen-team-FE)
 
 ## (Learning):
 
