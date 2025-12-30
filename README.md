@@ -4,7 +4,7 @@ An aspiring junior software developer interested in both frontend and backend de
 
 I love the vast avaiability of resources in the software development field and am currently working my best to expand my skillset and deepening my knowledge.
 
-I have built two fullstack projects for now (Please check below for the project section). In the mean time, I am learning Go and I am a building a project with it.
+I have built two fullstack projects with JavaScript and TypeScript. I have finished a CLI tool project with Golang and I am going to build an journal app trying to use Golang on backend an Typescript react for the Frontend Interface.
 
 ## Skills (Current):
 
