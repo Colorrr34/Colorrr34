@@ -8,7 +8,7 @@ I have built two fullstack projects for now (Please check below for the project 
 
 ## Skills (Current):
 
-Languages: JavaScript, TypeScript using Node.js and browsers as environment
+Languages: JavaScript, TypeScript, using Node.js and browsers as environment, Go
 
 Testing: TDD (Test Driven Development), Jest, Supertest, Vitest
 
@@ -29,11 +29,14 @@ Other: Paired programming, technical communication, SDL, Agile and SCRUM methodo
 - Burnout Breaker
   - A game platform App
   - https://breen-team-fe.vercel.app/
-  - [Backend](https://github.com/josephhelmore/breen-team-backend) | [Frontend](https://github.com/Gilson96/breen-team-FE)
+  - Repo: [Backend](https://github.com/josephhelmore/breen-team-backend) | [Frontend](https://github.com/Gilson96/breen-team-FE)
+- Gator RSS Feed Aggregator
+  - an CLI RSS aggregator tool which allows users to store RSS feeds in a PostgresQL database and save the posts in the feeds.
+  - Repo: https://github.com/Colorrr34/Gator
 
 ## (Learning):
 
-Languages: Go, Python
+Languages: Python
 
 Front-end: HTML, CSS, React and Lighthouse
 
