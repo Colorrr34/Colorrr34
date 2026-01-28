@@ -10,9 +10,9 @@ I have built two fullstack projects with JavaScript and TypeScript. I have finis
 
 Languages: JavaScript, TypeScript, using Node.js and browsers as environment, Go
 
-Testing: TDD (Test Driven Development), Jest, Supertest, Vitest
+Testing: TDD (Test Driven Development), Jest, Supertest, Vitest, Go testing
 
-Backend: SQL, PSQL, seeding, migrations, Drizzle, Json Web Token
+Backend: SQL, PSQL, seeding, migrations, ORM, Json Web Token, Oauth
 
 Frontend: Front-end: HTML, CSS, React, Vite 
 
