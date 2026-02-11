@@ -41,7 +41,7 @@ Other: Paired programming, technical communication, SDL, Agile and SCRUM methodo
   - Repo: https://github.com/Colorrr34/Gator
 - Chronicle (Java)
   - A REST API for blogposts management for RSS feed posts
-  - Spring boot as the framework. Flyway for migration, PostgreSQL database, Hibernate for database ORM
+  - Spring boot, Flyway, PostgreSQL, Hibernate
   - Repo: https://github.com/Colorrr34/chronicle
 
 
