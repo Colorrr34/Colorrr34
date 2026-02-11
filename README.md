@@ -1,18 +1,20 @@
 # Welcome to Ricky's GitHub
 
-An aspiring junior software developer interested in both frontend and backend development. I have worked in various industries ranging from financial assurance to bookseller to bar staff. 
+A  software developer interested in both frontend and backend development. I have worked in various industries ranging from financial assurance to bookseller to bar staff. 
 
-I love the vast avaiability of resources in the software development field and am currently working my best to expand my skillset and deepening my knowledge.
+I love the vast avaiability of resources in the software development field and am currently working my best to expand my skillset and deepening my knowledge. I love learning different programming languages as different ecosystem teaches me differen aspect of programming. It taught me how a computer runs the programme.
 
-I have built two fullstack projects with JavaScript and TypeScript. I have finished a CLI tool project with Golang and I am going to build an journal app trying to use Golang on backend an Typescript react for the Frontend Interface.
+I have built two fullstack projects with JavaScript and TypeScript. I have finished a CLI tool project with Golang and I am building a Java REST API for managing posts I get from the CLI tool.
 
 ## Skills (Current):
 
-Languages: JavaScript, TypeScript, using Node.js and browsers as environment, Go
+Languages: JavaScript, TypeScript, using Node.js and browsers as environment, Go, Java, Python
 
-Testing: TDD (Test Driven Development), Jest, Supertest, Vitest, Go testing
+Framwork: Spring boot
 
-Backend: SQL, PSQL, seeding, migrations, ORM, Json Web Token, Oauth
+Testing: TDD (Test Driven Development), Jest, Supertest, Vitest, Go standard testing, JUnit, Spring boot test
+
+Backend: SQL, PSQL, seeding, migrations, ORM, Json Web Token, Oauth, Hibernate, Flyway
 
 Frontend: Front-end: HTML, CSS, React, Vite 
 
@@ -31,15 +33,12 @@ Other: Paired programming, technical communication, SDL, Agile and SCRUM methodo
   - https://breen-team-fe.vercel.app/
   - Repo: [Backend](https://github.com/josephhelmore/breen-team-backend) | [Frontend](https://github.com/Gilson96/breen-team-FE)
 - Gator RSS Feed Aggregator
-  - an CLI RSS aggregator tool which allows users to store RSS feeds in a PostgresQL database and save the posts in the feeds.
+  - A CLI RSS aggregator tool which allows users to store RSS feeds in a PostgresQL database and save the posts in the feeds.
   - Repo: https://github.com/Colorrr34/Gator
-
-## (Learning):
-
-Languages: Python
-
-Front-end: HTML, CSS, React and Lighthouse
-
+- Chronicle
+  - A REST API for blogposts management for RSS feed posts
+  - Java as the programming language, use Spring boot as the framework. Flyway for migration, PostgreSQL database, Hibernate for database ORM
+  - Repo: https://github.com/Colorrr34/chronicle
 
 
 ----
