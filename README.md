@@ -24,20 +24,24 @@ Other: Paired programming, technical communication, SDL, Agile and SCRUM methodo
 
 ## Project:
 
-- NC News
+- NC News (JavaScript)
   - A forum style App which you can read articles and leave comments
+  - Backend: PostgreSQL, express.js, Jest, Supertest, Render, Supabase
+  - Frontend: React, Vite, Netlify
   - https://inquisitive-babka-e19c47.netlify.app/ (It might take up to a minute to load as the free tier render server regularly spins down)
   - Repo: [Backend](https://github.com/Colorrr34/NC-News-BE) | [Frontend](https://github.com/Colorrr34/NC-News-FE)
-- Burnout Breaker
+- Burnout Breaker (TypeScript)
   - A game platform App
   - https://breen-team-fe.vercel.app/
+  - Backend: PostgreSQL, Vite, Drizzle kit and ORM, Supabase, JWT, OAuth 2.0
+  - Frontend: 
   - Repo: [Backend](https://github.com/josephhelmore/breen-team-backend) | [Frontend](https://github.com/Gilson96/breen-team-FE)
-- Gator RSS Feed Aggregator
+- Gator RSS Feed Aggregator (Golang)
   - A CLI RSS aggregator tool which allows users to store RSS feeds in a PostgresQL database and save the posts in the feeds.
   - Repo: https://github.com/Colorrr34/Gator
-- Chronicle
+- Chronicle (Java)
   - A REST API for blogposts management for RSS feed posts
-  - Java as the programming language, use Spring boot as the framework. Flyway for migration, PostgreSQL database, Hibernate for database ORM
+  - Spring boot as the framework. Flyway for migration, PostgreSQL database, Hibernate for database ORM
   - Repo: https://github.com/Colorrr34/chronicle
 
 
