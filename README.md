@@ -24,6 +24,11 @@ Other: Paired programming, technical communication, SDL, Agile and SCRUM methodo
 
 ## Project:
 
+- Chronicle (Java)
+  - A REST API for blogposts management for RSS feed posts
+  - Spring boot, Flyway, PostgreSQL, Hibernate
+  - Repo: https://github.com/Colorrr34/chronicle
+  - A React frontend interface in development
 - NC News (JavaScript)
   - A forum style App which you can read articles and leave comments
   - Backend: PostgreSQL, express.js, Jest, Supertest, Render, Supabase
@@ -39,11 +44,6 @@ Other: Paired programming, technical communication, SDL, Agile and SCRUM methodo
 - Gator RSS Feed Aggregator (Golang)
   - A CLI RSS aggregator tool which allows users to store RSS feeds in a PostgresQL database and save the posts in the feeds.
   - Repo: https://github.com/Colorrr34/Gator
-- Chronicle (Java)
-  - A REST API for blogposts management for RSS feed posts
-  - Spring boot, Flyway, PostgreSQL, Hibernate
-  - Repo: https://github.com/Colorrr34/chronicle
-
 
 ----
 
